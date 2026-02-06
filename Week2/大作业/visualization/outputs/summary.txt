@@ -1,0 +1,5 @@
+metrics_json: logs/metrics_eval_20260206_132455.json
+accuracy: 0.8737
+precision: 0.8736
+recall: 0.8737
+f1: 0.8736
